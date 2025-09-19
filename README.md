@@ -41,3 +41,12 @@ Validation Root Mean Squared Error (RMSE):
 - **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib  
 - **Data:** Movie ratings CSVs (`ratings_train.csv`, `ratings_valid.csv`, `movies.csv`)
 
+---
+
+## 👥 Authors
+
+Kanapitch Khamjorn
+
+Witchapas Chotichaiyon
+
+Kueakul Jongpermponwattana
